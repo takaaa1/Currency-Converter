@@ -11,7 +11,7 @@ import java.net.URL;
 
 public class Main {
 
-    private static final String API_KEY = "0d1896711078becb277b82ba";
+    private static final String API_KEY = "YOUR_API_KEY";
     private static final String BASE_CODE = "USD";
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/" + BASE_CODE;
 
